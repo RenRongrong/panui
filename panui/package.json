@@ -1,0 +1,16 @@
+{
+    "name": "panui",
+    "version": "0.0.1",
+    "description": "provide some components and ainmations for angular",
+    "main": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "angular",
+        "component",
+        "ui"
+    ],
+    "author": "pandarrr",
+    "license": "MIT"
+}
